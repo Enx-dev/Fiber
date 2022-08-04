@@ -1,0 +1,18 @@
+✔ create footer @done(22-08-02 09:18)
+✔ make sign in page (mobile) @started(22-08-02 09:18) @done(22-08-02 09:28) @lasted(10m50s)
+✔ make nav responsive @started(22-08-02 09:28) @done(22-08-02 09:54) @lasted(26m21s)
+✔ make hero section responsive @started(22-08-02 09:54) @done(22-08-02 10:21) @lasted(27m16s)
+✔ make about section responsive @done(22-08-02 10:40)
+✔ make CTA section responsive @started(22-08-02 10:40) @done(22-08-02 10:47) @lasted(7m23s)
+✔ make Testimonial responsive @started(22-08-02 10:47) @done(22-08-02 10:55) @lasted(8m33s)
+✔ make footer section responsive @started(22-08-02 10:55) @done(22-08-02 11:02) @lasted(7m22s)
+✔ make sign up responsive @started(22-08-02 11:29) @done(22-08-02 11:59) @lasted(30m46s)
+✔ make sign in responsive  @done(22-08-02 11:59)
+✔ add firebase config @started(22-08-02 13:03) @done(22-08-02 13:45) @lasted(42m1s)
+✔ implement sign up function @started(22-08-02 13:45) @done(22-08-03 10:03) @lasted(20h19m)
+✔ implement login function @done(22-08-03 10:04)
+✔ implement log out function @done(22-08-03 10:04)
+✔ create dashbord home page @started(22-08-03 10:04) @done(22-08-03 20:38) @lasted(10h34m54s)
+✔ create dashbord profile page @done(22-08-03 20:38)
+☐ create dashbord faq page
+☐ create dashboard contact page
