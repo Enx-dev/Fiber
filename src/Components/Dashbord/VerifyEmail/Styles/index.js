@@ -1,22 +1,21 @@
 import styled from "styled-components";
 import { Desktop } from "../../../../utils/BreakPoints";
 export const Wrapper = styled.aside`
-  position: absolute;
-
   bottom: 0;
   right: 0;
   width: 100vw;
-  ${Desktop("width:60vw;left:20vw;margin:auto;")}
-  padding-block: 1.5rem;
+  ${Desktop("width:60vw;left:20vw;margin:auto;position: absolute;")}
+  padding-block: 1rem;
   background-color: ${({ theme }) => theme.color.accent};
   padding-inline: 1rem;
 `;
 export const Text = styled.p`
   color: white;
-  font-size: 1.5rem;
+  font-size: 1rem;
 `;
 export const VerifyBtn = styled.button`
-  padding-block: 1rem;
+  padding-block: 0.5rem;
+  margin-top: 0.5rem;
   cursor: pointer;
   padding-inline: 2rem;
   border-radius: 10px;

@@ -43,7 +43,7 @@ export const LinkWrapper = styled.ul`
   flex-direction: column;
   color: white;
   margin-block: 2rem;
-  gap: 1.5rem;
+  gap: 3rem;
   font-size: 1.5rem;
   font-weight: 500;
   text-transform: uppercase;
@@ -52,6 +52,10 @@ export const LinkWrapper = styled.ul`
 export const NavLink = styled(Link)`
   text-decoration: none;
   cursor: pointer;
+  &:focus,
+  &:focus-visible {
+    outline: none;
+  }
   // color: ${({ theme }) => theme.color.darkText};
   width: fit-content;
   position: relative;

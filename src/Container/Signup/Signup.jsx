@@ -23,7 +23,7 @@ const Container = styled.section`
 `;
 const Container2 = styled.div`
   padding-block-start: 3rem;
-  padding-inline-start: 3rem;
+  padding-inline-start: 1rem;
   width:100%;
 }
 `;
